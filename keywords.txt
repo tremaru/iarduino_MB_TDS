@@ -1,0 +1,65 @@
+#	####################################################
+#	СИНТАКСИЧЕСКАЯ РАСКРАСКА ДЛЯ БИБИЛИОТЕКИ:
+#	iarduino_MB_TDS
+#	####################################################
+#	ТИПЫ ДАННЫХ:							   (KEYWORD1)
+	iarduino_MB_TDS	KEYWORD1
+#	####################################################
+#	МЕТОДЫ И ФУНКЦИИ:						   (KEYWORD2)
+	begin	KEYWORD2
+	reset	KEYWORD2
+	changeID	KEYWORD2
+	setSpeedMB	KEYWORD2
+	ackSpeedMB	KEYWORD2
+	setTypeMB	KEYWORD2
+	ackTypeMB	KEYWORD2
+	writeFlash	KEYWORD2
+	readFlash	KEYWORD2
+	getID	KEYWORD2
+	getVersion	KEYWORD2
+	getPWR	KEYWORD2
+	setIDLED	KEYWORD2
+	getErr	KEYWORD2
+	setCalibration	KEYWORD2
+	getCalibration	KEYWORD2
+	getResultCalib	KEYWORD2
+	getStability	KEYWORD2
+	getFrequency	KEYWORD2
+	setFrequency	KEYWORD2
+	getKnownTDS	KEYWORD2
+	setKnownTDS	KEYWORD2
+	getKa	KEYWORD2
+	setKa	KEYWORD2
+	getKb	KEYWORD2
+	setKb	KEYWORD2
+	getKt	KEYWORD2
+	setKt	KEYWORD2
+	getKp	KEYWORD2
+	setKp	KEYWORD2
+	set_t	KEYWORD2
+	get_T	KEYWORD2
+	set_T	KEYWORD2
+	getVsens	KEYWORD2
+	getVo	KEYWORD2
+	getVout	KEYWORD2
+	getRo	KEYWORD2
+	get_S	KEYWORD2
+	getEC	KEYWORD2
+	getTDS	KEYWORD2
+	print	KEYWORD2
+#	####################################################
+#	КОНСТАНТЫ:								   (LITERAL1)
+	DEF_MODEL_TDS	LITERAL1
+	ERR_MB_TDS_Power	LITERAL1
+	ERR_MB_TDS_ADC	LITERAL1
+	ERR_MB_TDS_Vout	LITERAL1
+	ERR_MB_TDS_Vo	LITERAL1
+	ERR_MB_TDS_5V	LITERAL1
+	MB_TDS_Ro	LITERAL1
+	MB_TDS_S	LITERAL1
+	MB_TDS_EC	LITERAL1
+	MB_TDS_TDS	LITERAL1
+	MB_TDS_5V	LITERAL1
+	MB_TDS_Vo	LITERAL1
+	MB_TDS_Vout	LITERAL1
+	MB_TDS_Vsen	LITERAL1

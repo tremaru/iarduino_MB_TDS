@@ -24,10 +24,14 @@
 	getCalibration	KEYWORD2
 	getResultCalib	KEYWORD2
 	getStability	KEYWORD2
+	getFluctuation	KEYWORD2
+	setFluctuation	KEYWORD2
 	getFrequency	KEYWORD2
 	setFrequency	KEYWORD2
 	getKnownTDS	KEYWORD2
 	setKnownTDS	KEYWORD2
+	getKnownEC	KEYWORD2
+	setKnownEC	KEYWORD2
 	getKa	KEYWORD2
 	setKa	KEYWORD2
 	getKb	KEYWORD2
@@ -63,3 +67,5 @@
 	MB_TDS_Vo	LITERAL1
 	MB_TDS_Vout	LITERAL1
 	MB_TDS_Vsen	LITERAL1
+	STABLE_S	LITERAL1
+	UNSTABLE_S	LITERAL1

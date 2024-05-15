@@ -1,5 +1,5 @@
 //	Библиотека для работы с TDS/EC-метром iarduino Modbus: https://iarduino.ru/shop/Sensory-Datchiki/ec-tds-Modbus.html
-//  Версия: 1.1.3
+//  Версия: 1.1.4
 //  Последнюю версию библиотеки Вы можете скачать по ссылке: https://iarduino.ru/file/600.html
 //  Подробное описание функции бибилиотеки доступно по ссылке: https://wiki.iarduino.ru/page/ec-modbus/
 //  Библиотека является собственностью интернет магазина iarduino.ru и может свободно использоваться и распространяться!
